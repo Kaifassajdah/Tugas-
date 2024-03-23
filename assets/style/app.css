@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(#09c6e3b8 0%, #dd4cd6 40%, #4a20d3 100%)
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.profileImage {
+    width: 200px;
+}
+.profile h2 {
+    color: rgb(7, 1, 1);
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.about-me{
+    background: linear-gradient(#fff 0%, #e8e4e49d 40%, #f3f1f667 100%);
+    padding-bottom: 200px;
+    padding-top: 55px;
+}
+.eduction {
+    background: linear-gradient(#f3f1f667 0%, #f5f1f19d 40%, #f3f1f600 100%);
+    padding-bottom: 200px;
+    padding-top: 55px;
+}
+.row {
+    padding: 0px 20px;
+}
+.experience {
+    padding-top: 55px;
+}
+.footer {
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.contact a {
+    color: black;
+    font-size: 30px;
+}
+.watermark {
+    padding-top: 30px;
+}
